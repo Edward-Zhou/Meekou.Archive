@@ -4,6 +4,8 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+    
+
         {
             "type": "java",
             "name": "Launch Current File",
@@ -16,6 +18,13 @@
             "request": "launch",
             "mainClass": "com.meekou.App",
             "projectName": "sougoutoexcel"
+        },
+        {
+            "type": "java",
+            "name": "Java Hadoop Demo",
+            "request": "launch",
+            "mainClass": "com.meekou.App",
+            "projectName": "javahadoop"
         }
     ]
 }
